@@ -1,0 +1,103 @@
+body {
+    background-image: url("../clouds.jpg");
+    background-repeat: no-repeat;  
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+nav {
+  background-color: black;
+  margin: 0;
+  padding: 1px; }
+
+ul {
+  list-style-type: none;
+  padding-left: 5px; }
+
+li {
+  display: inline-block;
+  color: white;
+
+}
+
+li a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 5px 5px 5px 5px;
+  font-weight: bold; }
+
+li:hover {
+  color: #4A231E; }
+.artikel {
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    padding: auto;
+}
+
+.artone {
+    width: 31%;
+    height: 200px;
+    float: left;
+}
+
+.arttwo {
+    width: 31%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.imageholder {
+    width: 32%;
+    float: left;
+    margin-left: 20px;
+    position: relative;
+}
+
+.arttwo h1 {
+    clear: left;
+    text-align: center;
+}
+
+.text {
+    clear: both !important;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: 960px;
+    text-align: center;
+}
+
+.contact {
+    position: absolute;
+
+}
+
+ol li {
+    float: left;
+    list-style-type: none;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+li a {
+    margin-right: 10px;
+    display: block;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+.logo img {
+    float: right
+}
+.placeholder{
+    
+}
